@@ -6,7 +6,7 @@ imageUrl: https://user-images.githubusercontent.com/109794641/184533783-0d7e33ef
 ---
 
 ## Prerequisites
-1. A [GitHub](https://github.com/login) account
+1. [GitHub](https://github.com/login) account
 2. [Formspree](https://formspree.io/) account - _optional_ - only if you want users to send you messages
 
 ## Step 1: Fork a Jekyll web project
