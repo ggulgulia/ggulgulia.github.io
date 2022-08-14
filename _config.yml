@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+title: appsparkler
+subtitle: by aakash
+email: appsparkler@gmail.com
+description: web architect
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: https://aakashshah1.github.io # the base hostname & protocol for your site
+author: aakash
+street_address: Doddanekundi
+city: Bangalore
+state: KA
+zip_code: 560037
+country: India
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
