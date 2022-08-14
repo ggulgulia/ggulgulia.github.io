@@ -2,7 +2,7 @@
 layout: post
 title: Your own free website in less than 5 minutes
 description: Setup your first website in 3 simple steps
-image: https://user-images.githubusercontent.com/109794641/184533783-0d7e33ef-d161-473b-baa2-536befd5f764.jpg
+imageUrl: https://user-images.githubusercontent.com/109794641/184533783-0d7e33ef-d161-473b-baa2-536befd5f764.jpg
 ---
 
 ## Prerequisites
