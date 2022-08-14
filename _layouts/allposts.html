@@ -19,8 +19,8 @@
       <!-- One -->
       <section id="one">
 	<div class="inner">
-    {% for post in site.posts %}
-	  {% if post.title != 404 %}
+  {% for post in site.posts %}
+	  {% if post.title != 404 and post.unpublished != true %}
 	  <header class="major">
 	    <h1>{{ post.title }}</h1>
 	  </header>
@@ -29,7 +29,7 @@
 	  {% if post.date %}<p>{{ post.date }}</p>{% endif %}
 	  <p>{{ post.content }}</p>
 	  {% endif %}
-          {% endfor %}
+  {% endfor %}
 	</div>
       </section>
 
