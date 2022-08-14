@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Your own free website in 5 minutes
-description: Setup your first website in 5 simple steps
+title: Your own free website in less than 5 minutes
+description: Setup your first website in 3 simple steps
 image: https://user-images.githubusercontent.com/109794641/184533783-0d7e33ef-d161-473b-baa2-536befd5f764.jpg
 ---
 
@@ -9,7 +9,7 @@ image: https://user-images.githubusercontent.com/109794641/184533783-0d7e33ef-d1
 1. A [GitHub](https://github.com/login) account
 2. [Formspree](https://formspree.io/) account - _optional_ - only if you want users to send you messages
 
-## Step 1: Fork an existing Jekyll Theme project
+## Step 1: Fork a Jekyll web project
 There are many [free](https://jekyllthemes.io/free) and paid Jekyll Themes available.  You could choose any; however, 
 for this setup we'll be using [this fork](https://github.com/aakashshah1/aakashshah1.github.io/fork).
 Use the name `<your-github-user-name>.github.io` for this project - for ex. if my GitHub user name is `aakashshah1`; I
