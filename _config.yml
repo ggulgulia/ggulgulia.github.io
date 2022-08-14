@@ -14,7 +14,7 @@ country: India
 formspreeEndpoint: https://formspree.io/f/mdojodbe
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings (key must match name of font awesome icon)
