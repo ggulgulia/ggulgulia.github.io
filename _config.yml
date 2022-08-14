@@ -11,7 +11,7 @@ city: Bangalore
 state: KA
 zip_code: 560037
 country: India
-phone: 
+formspreeEndpoint: https://formspree.io/f/mdojodbe
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
