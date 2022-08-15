@@ -1,7 +1,9 @@
-    /*!
-      Theme: Atelier Seaside
-      Author: Bram de Haan (http://atelierbramdehaan.nl)
-      License: ~ MIT (or more permissive) [via base16-schemes-source]
-      Maintainer: @highlightjs/core-team
-      Version: 2021.09.0
-    */pre code.hljs{display:block;overflow-x:auto;padding:1em}code.hljs{padding:3px 5px}.hljs{color:#8ca68c;background:#131513}.hljs ::selection,.hljs::selection{background-color:#5e6e5e;color:#8ca68c}.hljs-comment{color:#687d68}.hljs-tag{color:#809980}.hljs-operator,.hljs-punctuation,.hljs-subst{color:#8ca68c}.hljs-operator{opacity:.7}.hljs-bullet,.hljs-deletion,.hljs-name,.hljs-selector-tag,.hljs-template-variable,.hljs-variable{color:#e6193c}.hljs-attr,.hljs-link,.hljs-literal,.hljs-number,.hljs-symbol,.hljs-variable.constant_{color:#87711d}.hljs-class .hljs-title,.hljs-title,.hljs-title.class_{color:#98981b}.hljs-strong{font-weight:700;color:#98981b}.hljs-addition,.hljs-code,.hljs-string,.hljs-title.class_.inherited__{color:#29a329}.hljs-built_in,.hljs-doctag,.hljs-keyword.hljs-atrule,.hljs-quote,.hljs-regexp{color:#1999b3}.hljs-attribute,.hljs-function .hljs-title,.hljs-section,.hljs-title.function_,.ruby .hljs-property{color:#3d62f5}.diff .hljs-meta,.hljs-keyword,.hljs-template-tag,.hljs-type{color:#ad2bee}.hljs-emphasis{color:#ad2bee;font-style:italic}.hljs-meta,.hljs-meta .hljs-keyword,.hljs-meta .hljs-string{color:#e619c3}.hljs-meta .hljs-keyword,.hljs-meta-keyword{font-weight:700}
+pre code.hljs{display:block;overflow-x:auto;padding:1em}code.hljs{padding:3px 5px}/*!
+Theme: GitHub Dark Dimmed
+Description: Dark dimmed theme as seen on github.com
+Author: github.com
+Maintainer: @Hirse
+Updated: 2021-05-15
+
+Colors taken from GitHub's CSS
+*/.hljs{color:#adbac7;background:#22272e}.hljs-doctag,.hljs-keyword,.hljs-meta .hljs-keyword,.hljs-template-tag,.hljs-template-variable,.hljs-type,.hljs-variable.language_{color:#f47067}.hljs-title,.hljs-title.class_,.hljs-title.class_.inherited__,.hljs-title.function_{color:#dcbdfb}.hljs-attr,.hljs-attribute,.hljs-literal,.hljs-meta,.hljs-number,.hljs-operator,.hljs-selector-attr,.hljs-selector-class,.hljs-selector-id,.hljs-variable{color:#6cb6ff}.hljs-meta .hljs-string,.hljs-regexp,.hljs-string{color:#96d0ff}.hljs-built_in,.hljs-symbol{color:#f69d50}.hljs-code,.hljs-comment,.hljs-formula{color:#768390}.hljs-name,.hljs-quote,.hljs-selector-pseudo,.hljs-selector-tag{color:#8ddb8c}.hljs-subst{color:#adbac7}.hljs-section{color:#316dca;font-weight:700}.hljs-bullet{color:#eac55f}.hljs-emphasis{color:#adbac7;font-style:italic}.hljs-strong{color:#adbac7;font-weight:700}.hljs-addition{color:#b4f1b4;background-color:#1b4721}.hljs-deletion{color:#ffd8d3;background-color:#78191b}
