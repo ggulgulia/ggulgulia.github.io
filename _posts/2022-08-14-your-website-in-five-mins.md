@@ -16,7 +16,7 @@ Use the name `<your-github-user-name>.github.io` for this project - for ex. if m
 would name the project `aakashshah1.github.io`.
 
 ## Step 2: Edit the `_config.yaml`
-Make the necessary changes to the `# site-settings` section of the `_config.yaml` file in the project.
+Make the necessary changes to the `# site-settings` section of the `_config.yaml` file in the project and save it.
 
 ## Step 3: Deploy your site
 Go to `Settings` tab of the project and visit the `Pages` section from the sidebar.  
