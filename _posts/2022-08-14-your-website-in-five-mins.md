@@ -11,7 +11,7 @@ imageUrl: https://user-images.githubusercontent.com/109794641/184533783-0d7e33ef
 
 ## Step 1: Fork a Jekyll web project
 There are many [free](https://jekyllthemes.io/free) and paid Jekyll Themes available.  You could choose any; however, 
-for this setup we'll be using [this fork](https://github.com/aakashshah1/aakashshah1.github.io/fork).
+for this setup you need to [fork this project](https://github.com/aakashshah1/aakashshah1.github.io/fork).
 Use the name `<your-github-user-name>.github.io` for this project - for ex. if my GitHub user name is `aakashshah1`; I
 would name the project `aakashshah1.github.io`.
 
