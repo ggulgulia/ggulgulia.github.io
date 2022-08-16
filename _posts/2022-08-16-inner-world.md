@@ -7,4 +7,9 @@ imageUrl: https://user-images.githubusercontent.com/109794641/184797217-0bf708ec
 
 > Everything that belongs to You but you cannot see makes up your inner world.
 
+For example, 
+your memories (mind), 
+your ability to reason (intellect) 
+and your sense of self (ego).
+
 _Thats it folks!!_
