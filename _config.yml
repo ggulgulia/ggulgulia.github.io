@@ -12,6 +12,8 @@ state: KA
 zip_code: 560037
 country: India
 formspreeEndpoint: https://formspree.io/f/mdojodbe
+branch: main
+repo: aakashshah1/aakashshah1.github.io
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
