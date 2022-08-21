@@ -14,6 +14,7 @@ country: India
 formspreeEndpoint: https://formspree.io/f/mdojodbe
 branch: main
 repo: appsparkler/appsparkler.github.io
+google_analytics: G-3ZFPW8CPZT
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
