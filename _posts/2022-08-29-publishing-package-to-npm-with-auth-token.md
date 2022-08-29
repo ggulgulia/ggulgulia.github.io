@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to publish a NPM package with auth tokens?
-description: 
+description: As simple as it gets
+imageUrl: https://user-images.githubusercontent.com/12084821/187110056-fb952e4e-d159-4259-af7f-aed0cc93a016.jpg
 ---
 
 ## Step 1
