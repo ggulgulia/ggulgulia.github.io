@@ -1,8 +1,8 @@
 ---
 layout: post
-title: How to publish a NPM package with auth tokens?
-description: As simple as it gets
-imageUrl: https://user-images.githubusercontent.com/12084821/187110626-f09b8c2c-c0fe-4bf7-8efb-c55437b02f2d.jpg
+title: Yoga instills mindfulness
+description: Elevate your Eonsciousness
+imageUrl: assets/images/monopteros.jpg
 ---
 
 ## Step 1

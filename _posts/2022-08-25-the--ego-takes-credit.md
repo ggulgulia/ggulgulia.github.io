@@ -1,8 +1,8 @@
 ---
 layout: post
-title: When The Gods Partied
-description: An example of how anyone can forget the real doer behind everything
-imageUrl: https://www.uptownevents.co.uk/wp-content/uploads/2019/01/Bollywood-Birthday-Party-5.png
+title: Connect with your Heart
+description: 
+imageUrl: assets/images/yoga-unshplash-1.jpg
 ---
 *365 Days✈️With HFN St🌍ry*
 
