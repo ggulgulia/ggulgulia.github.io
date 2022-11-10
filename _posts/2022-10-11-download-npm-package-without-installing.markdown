@@ -1,7 +1,7 @@
 ---
 title: Be one with your body
 description: wellness beyond body
-imageUrl: assets/images/Anokhi-Group-2.jpeg
+imageUrl: assets/images/Anokhi-2.jpeg
 ---
 
 
