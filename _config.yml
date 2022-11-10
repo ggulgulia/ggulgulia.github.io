@@ -1,7 +1,7 @@
 # site settings
 title: Muenchen Yoga
 subtitle: Unite Body and Soul
-email: gajendra.gulgulia@gmail.com
+email: contact@muenchen-yoga.com
 description: Hatha yoga - Beginners and Intermediate levels
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://ggulgulia.github.io # the base hostname & protocol for your site
@@ -11,7 +11,7 @@ city: Munich
 state: Bavaria
 zip_code: 80992
 country: Germany
-formspreeEndpoint: https://formspree.io/f/xpznkbaj
+formspreeEndpoint: https://formspree.io/f/mknekyrz
 branch: main
 repo: ggulgulia/ggulgulia.github.io
 google_analytics: G-3ZFPW8CPZT
