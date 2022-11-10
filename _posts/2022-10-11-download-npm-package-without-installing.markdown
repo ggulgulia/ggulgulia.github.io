@@ -1,7 +1,7 @@
 ---
 title: Stretchs relives stresses
 description: wellness beyond body
-imageUrl: assets/images/Anokhi-Group1.jpeg
+imageUrl: assets/images/Anokhi-Group-1.jpg
 ---
 
 
