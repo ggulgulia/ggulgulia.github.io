@@ -2,7 +2,7 @@
 title: Muenchen Yoga
 subtitle: Unite Body and Soul
 email: gajendra.gulgulia@gmail.com
-description: Back End Developer
+description: Hatha yoga - Beginners and Intermediate levels
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://ggulgulia.github.io # the base hostname & protocol for your site
 author: Gajendra
@@ -13,7 +13,7 @@ zip_code: 80992
 country: Germany
 formspreeEndpoint: https://formspree.io/f/xpznkbaj
 branch: main
-repo: appsparkler/ggulgulia.github.io
+repo: ggulgulia/ggulgulia.github.io
 google_analytics: G-3ZFPW8CPZT
 
 # homepage tiles
@@ -25,11 +25,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/appsparkler
+  GitHub: https://github.com/ggulgulia
   Instagram: https://www.instagram.com/appsparklerin/
-  LinkedIn: https://www.linkedin.com/in/appsparkler
+  LinkedIn: https://www.linkedin.com/in/gajendra.gulgulia@gmail.com
   Twitter: https://twitter.com/isdeveloping
-  Facebook: https://www.facebook.com/appsparkler
+  Facebook: https://www.facebook.com/MuenchenYoga
+  Meetup: https://www.meetup.com/munchen-yoga
 
 # build settings
 markdown: kramdown

@@ -1,7 +1,7 @@
 ---
 layout: home
 title: München-Yoga
-landing-title: 'München Yoga'
+landing-title: 'Unite Body and Soul'
 description: null
 image: null
 author: null
