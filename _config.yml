@@ -1,19 +1,19 @@
 # site settings
 title: appsparkler
 subtitle: tech
-email: appsparkler@gmail.com
-description: web architect
+email: gajendra.gulgulia@gmail.com
+description: Back End Developer
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: https://appsparkler.github.io # the base hostname & protocol for your site
+url: https://ggulgulia.github.io # the base hostname & protocol for your site
 author: aakash
 street_address: Doddanekundi
-city: Bangalore
-state: KA
-zip_code: 560037
-country: India
+city: Munich
+state: Bavaria
+zip_code: 80992
+country: Germany
 formspreeEndpoint: https://formspree.io/f/mdojodbe
 branch: main
-repo: appsparkler/appsparkler.github.io
+repo: appsparkler/ggulgulia.github.io
 google_analytics: G-3ZFPW8CPZT
 
 # homepage tiles
