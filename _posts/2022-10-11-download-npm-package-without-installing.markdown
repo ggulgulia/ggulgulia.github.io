@@ -1,7 +1,7 @@
 ---
-title: Download NPM Package
-description: ...without installing it :)
-imageUrl: https://user-images.githubusercontent.com/12084821/195131479-e3855a55-78f7-4998-aaad-94de3be3791a.jpg
+title: Stretchs relives stresses
+description: wellness beyond body
+imageUrl: assets/images/Anokhi-Group1.jpeg
 ---
 
 
