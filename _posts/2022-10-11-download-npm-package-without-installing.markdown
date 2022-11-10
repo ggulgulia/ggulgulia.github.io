@@ -1,7 +1,7 @@
 ---
-title: Stretchs relives stresses
+title: Be one with your body
 description: wellness beyond body
-imageUrl: assets/images/Anokhi-Group-1.jpeg
+imageUrl: assets/images/Anokhi-Group-2.jpeg
 ---
 
 

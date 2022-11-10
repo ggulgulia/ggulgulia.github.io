@@ -2,7 +2,7 @@
 layout: post
 title: How to execute command on changing any files in NodeJS environment?
 description: As simple as it gets
-imageUrl: https://user-images.githubusercontent.com/12084821/190163306-64f1427c-d1c1-4dc7-b7e4-45e84ad78076.jpg
+imageUrl: assets/images/Anokhi-Group-1.jpeg
 ---
 
 The simplest way to execute a command on file change is:
