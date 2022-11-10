@@ -1,7 +1,7 @@
 ---
-title: How to create a worktree in Git?
-description: This post will clarify on how to have 2 folders for the same Git project.
-imageUrl: https://user-images.githubusercontent.com/12084821/192946383-e2d754ff-20a4-42d5-8ce2-880f85accaba.jpg
+title: Energize your inner core
+description: Be aware of yourself and your sorroundings
+imageUrl: assets/images/yoga-lotus.jpg
 ---
 
 Photo by <a href="https://unsplash.com/@jannerboy62?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nick Fewings</a> on <a href="https://unsplash.com/s/photos/2-roads?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
