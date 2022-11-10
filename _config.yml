@@ -1,12 +1,12 @@
 # site settings
-title: appsparkler
-subtitle: tech
+title: Muenchen Yoga
+subtitle: Unite Body and Soul
 email: gajendra.gulgulia@gmail.com
 description: Back End Developer
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://ggulgulia.github.io # the base hostname & protocol for your site
-author: aakash
-street_address: Doddanekundi
+author: Gajendra
+street_address: Dachauer Str.
 city: Munich
 state: Bavaria
 zip_code: 80992
