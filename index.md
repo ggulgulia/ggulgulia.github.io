@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Home
-landing-title: 'Hi, my name is aakash'
+title: München-Yoga
+landing-title: 'München Yoga'
 description: null
 image: null
 author: null
