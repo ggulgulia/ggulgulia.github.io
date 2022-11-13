@@ -45,14 +45,3 @@
 		accent5:			/*#8ea9e8*/rgba(62, 69, 50, 0.4),
 		accent6:			/*#87c5a4*/rgba(62, 69, 50, 0.4)
 	);
-
-	@include breakpoint(small) {
-		$palette: (
-			accent1:			/*#6fc3df*/rgba(62, 69, 50, 0.0),
-			accent2:			/*#8d82c4*/rgba(62, 69, 50, 0.0),
-			accent3:			/*#ec8d81*/rgba(62, 69, 50, 0.0),
-			accent4:			/*#e7b788*/rgba(62, 69, 50, 0.0),
-			accent5:			/*#8ea9e8*/rgba(62, 69, 50, 0.0),
-			accent6:			/*#87c5a4*/rgba(62, 69, 50, 0.0)
-		)
-	}
