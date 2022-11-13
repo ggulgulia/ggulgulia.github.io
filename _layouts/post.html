@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <!--
-	Forty by HTML5 UP
-	html5up.net | @ajlkn
+	Yoga theme by Gajendra
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
@@ -10,35 +9,37 @@
 
 <body>
 
-    {% include header.html %} 
-    
-    
-<!-- Main -->
-<div id="main" class="alt">
+	{% include header.html %}
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>{{ page.title }}</h1>
-		</header>
-		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
-		{% if page.imageUrl %}<span class="image main"><img src="{{ page.imageUrl }}" alt="" /></span>{% endif %}
-		{{ content }}
-		<a href="https://github.com/{{ site.repo }}/edit/{{ site.branch }}/{{ page.path }}" class="button">
-			<i class="fa fa-pencil"></i>&nbsp;
-			Edit
-		</a>
-		<a href="https://github.com/{{ site.repo }}/blob/main/{{ page.path }}" class="button">
-			<i class="fa fa-eye"></i>&nbsp;
-			Read On GitHub
-		</a>
+
+	<!-- Main -->
+	<div id="main" class="alt">
+
+		<!-- One -->
+		<section id="one">
+			<div class="inner">
+				<header class="major">
+					<h1>{{ page.title }}</h1>
+				</header>
+				{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}"
+						alt="" /></span>{% endif %}
+				{% if page.imageUrl %}<span class="image main"><img src="{{ page.imageUrl }}" alt="" /></span>{% endif
+				%}
+				{{ content }}
+				<a href="https://github.com/{{ site.repo }}/edit/{{ site.branch }}/{{ page.path }}" class="button">
+					<i class="fa fa-pencil"></i>&nbsp;
+					Edit
+				</a>
+				<a href="https://github.com/{{ site.repo }}/blob/main/{{ page.path }}" class="button">
+					<i class="fa fa-eye"></i>&nbsp;
+					Read On GitHub
+				</a>
+			</div>
+		</section>
+
 	</div>
-</section>
 
-</div>
-
-    {% include footer.html %}
+	{% include footer.html %}
 
 </body>
 
