@@ -2,7 +2,7 @@
 layout: post
 title: About Hatha Yoga
 description: A brief history of Hatha Yoga
-imageUrl: /assets/images/unsplash-yoga-girl-landscape.jpg
+imageUrl: /assets/images/sunset-unsplash.jpg
 ---
 
 ## Haṭha yoga:
