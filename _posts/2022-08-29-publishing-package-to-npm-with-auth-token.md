@@ -2,7 +2,7 @@
 layout: post
 title: Yoga instills mindfulness
 description: Elevate your Eonsciousness
-imageUrl: assets/images/monopteros.jpg
+imageUrl: /assets/images/monopteros.jpg
 ---
 
 ## Step 1
