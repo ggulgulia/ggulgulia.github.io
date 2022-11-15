@@ -25,10 +25,10 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/ggulgulia
-  Instagram: https://www.instagram.com/appsparklerin/
-  LinkedIn: https://www.linkedin.com/in/gajendra.gulgulia@gmail.com
-  Twitter: https://twitter.com/isdeveloping
+  #GitHub: https://github.com/ggulgulia
+  #Instagram: https://www.instagram.com/appsparklerin/
+  #LinkedIn: https://www.linkedin.com/in/gajendra.gulgulia@gmail.com
+  #Twitter: https://twitter.com/isdeveloping
   Facebook: https://www.facebook.com/MuenchenYoga
   Meetup: https://www.meetup.com/munchen-yoga
 
